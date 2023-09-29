@@ -44,4 +44,4 @@ If you would like to contribute to this project, please follow these steps:
 5. Create a pull request to the main repository's main branch.
 
 # Credits
-This project was created by Manas Kumar. Feel free to contact me with any questions or suggestions.
+This project was created by ```Manas Kumar```. Feel free to contact me with any questions or suggestions.
